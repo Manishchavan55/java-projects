@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module BANK_PROJECT {
-}
